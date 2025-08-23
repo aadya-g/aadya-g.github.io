@@ -1,4 +1,36 @@
 ---
-layout: home
-author_profile: true
+title: "Home"
+layout: splash
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/header-bg.jpg
+  caption: "Welcome"
+excerpt: "Projects • Education • Interests"
+intro: 
+  - excerpt: "Hi, I’m [Your Name]! I’m passionate about building technology that blends creativity, problem-solving, and community impact. This site is a collection of my projects, education, and interests."
+feature_row:
+  - image_path: /assets/images/projects.jpg
+    alt: "Projects"
+    title: "Projects"
+    excerpt: "Explore the applications, tools, and creative experiments I’ve built."
+    url: "/projects/"
+    btn_label: "View Projects"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/education.jpg
+    alt: "Education"
+    title: "Education"
+    excerpt: "Learn about my academic journey and the courses shaping my path."
+    url: "/education/"
+    btn_label: "View Education"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/interests.jpg
+    alt: "Interests"
+    title: "Interests"
+    excerpt: "Beyond academics, here’s what inspires me and keeps me curious."
+    url: "/interests/"
+    btn_label: "View Interests"
+    btn_class: "btn--primary"
 ---
+{% include feature_row %}
