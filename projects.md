@@ -1,9 +1,10 @@
 ---
 layout: single
-title: My Projects
+title: "My Projects"
 permalink: /projects/
 author_profile: true
-classes: wide
+sidebar:
+  nav: "main"
 ---
 
 ### Virtual Dentist: Using Large Language Models to Simplify Doctor-Patient Interactions (2024)
