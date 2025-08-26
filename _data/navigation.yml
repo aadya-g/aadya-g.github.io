@@ -5,6 +5,8 @@ main:
 
   - title: "Projects"
     url: /projects/
+  - title: "Github"
+    url: https://github.com/aadya-g
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
