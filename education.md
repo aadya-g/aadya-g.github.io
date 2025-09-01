@@ -13,7 +13,7 @@ author_profile: true
 
 **Relevant Coursework:**  
 - Elementary Matrix and Linear Algebra  
-- Programming III  
+- Programming II 
 - Data Science Modeling I  
 - Introduction to Discrete Mathematics  
 - Concepts of Data and Information Science  
