@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-# 🎓 Education
+# Education
 
 ## University of Wisconsin Madison  
 **B.S. in Computer Science and Data Science**  
