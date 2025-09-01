@@ -7,7 +7,7 @@ author_profile: true
 
 # 🎓 Education
 
-## University of Wisconsin–Madison  
+## University of Wisconsin Madison  
 **B.S. in Computer Science and Data Science**  
 *Expected Graduation: 2027*
 
