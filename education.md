@@ -42,7 +42,7 @@ author_profile: true
 - Capstone Linear Algebra
 
 **Clubs & Activities:**
-- **Teaching Assistant for AP Computer Science Principles)** Tutored students in coding basics, graded assignments, and led review sessions.
+- **Teaching Assistant for AP Computer Science Principles** Tutored students in coding basics, graded assignments, and led review sessions.
 - **Varsity Volleyball Team** Captain and player, competed in regional tournaments.  
 - **One Prosper English Learning Buddy** Volunteered with a nonprofit supporting girls’ education
 - **Book Podcast Club:** Founder and host, produced reviews and led discussions on literature.  
