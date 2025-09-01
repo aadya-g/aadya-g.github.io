@@ -1,12 +1,13 @@
 # main links
 main:
+  - title: "Home"
+    url: /
+  - title: "Education"
+    url: /education/
   - title: "Projects"
     url: /projects/
- - title: "Education"
-    url: /education/
   - title: "Github"
     url: https://github.com/aadya-g
-  # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
