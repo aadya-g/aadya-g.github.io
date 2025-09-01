@@ -13,7 +13,7 @@ author_profile: true
 
 **Relevant Coursework:**  
 - Elementary Matrix and Linear Algebra  
-- Programming II 
+- Programming II  
 - Data Science Modeling I  
 - Introduction to Discrete Mathematics  
 - Concepts of Data and Information Science  
@@ -34,17 +34,17 @@ author_profile: true
 **Graduated: 2023**
 
 **Notable Courses:**  
-- AP Computer Science A/ AP Computer Science Principles (Teaching Assistant)
-- AP Calculus AB/ AP Statistics  
-- AP Physics A/ AP Physics 2 / Honors Physics
-- AP Chemistry/ Honors Chemistry
-- Capstone Advanced Java Programming
-- Capstone Linear Algebra
+- AP Computer Science A / AP Computer Science Principles (Teaching Assistant)  
+- AP Calculus AB / AP Statistics  
+- AP Physics A / AP Physics 2 / Honors Physics  
+- AP Chemistry / Honors Chemistry  
+- Capstone Advanced Java Programming  
+- Capstone Linear Algebra  
 
-**Clubs & Activities:**
-- **Teaching Assistant for AP Computer Science Principles** Tutored students in coding basics, graded assignments, and led review sessions.
-- **Varsity Volleyball Team** Captain and player, competed in regional tournaments.  
-- **One Prosper English Learning Buddy** Volunteered with a nonprofit supporting girls’ education
-- **Book Podcast Club:** Founder and host, produced reviews and led discussions on literature.  
-- **Volleyball Assistant Coach** Organized practice and provided feedback to improve player technique.
-- **ASB** Organize events to promote school spirit. Planned awareness games, such as a Neurodiversity Basketball Game, with my commission to spread awareness.
+**Clubs & Activities:**  
+- **Teaching Assistant for AP Computer Science Principles** — Tutored students in coding basics, graded assignments, and led review sessions.  
+- **Varsity Volleyball Team** — Captain and player, competed in regional tournaments.  
+- **One Prosper English Learning Buddy** — Volunteered with a nonprofit supporting girls’ education.  
+- **Book Podcast Club** — Founder and host, produced reviews and led discussions on literature.  
+- **Volleyball Assistant Coach** — Organized practice and provided feedback to improve player technique.  
+- **ASB** — Organized events to promote school spirit. Planned awareness games, such as a Neurodiversity Basketball Game, with my commission to spread awareness.  
