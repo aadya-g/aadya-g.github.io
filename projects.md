@@ -5,6 +5,13 @@ permalink: /projects/
 author_profile: true
 ---
 
+### WattBot: Estimating AI Emissions with Retrieval Augmented Generation (RAG) (2025)
+As part of the UW–Madison Machine Learning Marathon, I collaborated with a team of five to design a retrieval-augmented generation (RAG) system that measures and interprets the environmental impact of AI models. The goal of this project was to create a tool that could extract and summarize peer-reviewed data on the carbon and water footprints of AI systems, providing transparent, citation-backed insights for researchers and policymakers.
+
+We used Gemini as our large language model and integrated it with Amazon Bedrock and Microsoft Azure to build scalable NLP pipelines for document retrieval, knowledge grounding, and trustworthy output generation. Our focus on transparency ensured that every insight was supported by verifiable sources, helping bridge the gap between technical research and policy decision-making.
+
+Through this project, we demonstrated how RAG systems can promote accountability and sustainability in AI by making complex environmental data more accessible and actionable.
+
 ### Virtual Dentist: Using Large Language Models to Simplify Doctor-Patient Interactions (2024)
 For my senior project, I partnered with a local dental clinic to simplify patient–doctor interactions by building a chatbot that recommends treatments based on patients’ stated problems and medical history. The core idea is to reduce the initial communication gap between patients and doctors by providing accessible, personalized oral-care guidance before an in-person consultation.
 
@@ -16,7 +23,7 @@ Finally, I conducted model optimization using diagnostic evaluation metrics and 
 
 - [Blog Post](https://basisindependent.com/schools/ca/silicon-valley/academics/the-senior-year/senior-projects/aadya-g/?results=1)
 
-### Volleyball Activity Recognition Feedback Mechanism (2023-present)
+### Volleyball Activity Recognition Feedback Mechanism (2025)
 In 2023, I worked on a project with Inspirit AI focused on volleyball activity recognition. The goal of this project was to develop an algorithm that could classify player actions and predict positions on the court based on movement and location, ultimately providing insights to improve athletic performance.
 
 I built the model using Python with Keras and NumPy, incorporating OpenCV for video preprocessing and a convolutional neural network (CNN) for action classification. To strengthen the dataset, I performed data preprocessing by filtering out irrelevant images and ensuring that only volleyball players performing specific tasks were included. This refinement improved both the accuracy and relevance of the model’s predictions.
