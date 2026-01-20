@@ -29,7 +29,7 @@ author_profile: true
 ---
 
 ## Basis Independent Silicon Valley (High School)  
-**Graduated: 2023**
+**Graduated: 2024**
 
 **Notable Courses:**  
 - AP Computer Science A / AP Computer Science Principles (Teaching Assistant)  
