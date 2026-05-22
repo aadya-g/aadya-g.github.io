@@ -11,10 +11,10 @@ author_profile: true
 
 **Relevant Coursework:**  
 - Elementary Matrix and Linear Algebra  
-- Programming II  
-- Data Science Modeling I  
-- Introduction to Discrete Mathematics  
-- Concepts of Data and Information Science  
+- Programming III  
+- Data Science Modeling II  
+- Machine Organization and Programming  
+- Introduction to Algorithms  
 
 **Campus Involvement & Activities:**  
 - **Theta Tau – Xi Chapter**  
