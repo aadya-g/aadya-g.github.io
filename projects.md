@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ### WattBot: Estimating AI Emissions with Retrieval Augmented Generation (RAG) (2025)
-As part of the UW–Madison Machine Learning Marathon, I collaborated with a team of five to design a retrieval-augmented generation (RAG) system that measures and interprets the environmental impact of AI models. The goal of this project was to create a tool that could extract and summarize peer-reviewed data on the carbon and water footprints of AI systems, providing transparent, citation-backed insights for researchers and policymakers.
+As part of the UW-Madison Machine Learning Marathon, I collaborated with a team of five to design a retrieval-augmented generation (RAG) system that measures and interprets the environmental impact of AI models. The goal of this project was to create a tool that could extract and summarize peer-reviewed data on the carbon and water footprints of AI systems, providing transparent, citation-backed insights for researchers and policymakers.
 
-We used Gemini as our large language model and integrated it with Amazon Bedrock and Microsoft Azure to build scalable NLP pipelines for document retrieval, knowledge grounding, and trustworthy output generation. Our focus on transparency ensured that every insight was supported by verifiable sources, helping bridge the gap between technical research and policy decision-making.
+We built WattBot using retrieval-augmented generation (RAG) pipelines, vector-based document retrieval, and cloud-hosted inference infrastructure to analyze AI sustainability research and generate grounded responses. The system combined document parsing, semantic search, and source-aware generation to ensure outputs were traceable to verifiable evidence, enabling more transparent and trustworthy insights at the intersection of AI, energy usage, and policy.
 
 Through this project, we demonstrated how RAG systems can promote accountability and sustainability in AI by making complex environmental data more accessible and actionable.
 
@@ -24,7 +24,7 @@ Finally, I conducted model optimization using diagnostic evaluation metrics and 
 - [Blog Post](https://basisindependent.com/schools/ca/silicon-valley/academics/the-senior-year/senior-projects/aadya-g/?results=1)
 
 ### Volleyball Activity Recognition Feedback Mechanism (2025)
-In 2023, I worked on a project with Inspirit AI focused on volleyball activity recognition. The goal of this project was to develop an algorithm that could classify player actions and predict positions on the court based on movement and location, ultimately providing insights to improve athletic performance.
+In 2025, I worked on a project with Inspirit AI focused on volleyball activity recognition. The goal of this project was to develop an algorithm that could classify player actions and predict positions on the court based on movement and location, ultimately providing insights to improve athletic performance.
 
 I built the model using Python with Keras and NumPy, incorporating OpenCV for video preprocessing and a convolutional neural network (CNN) for action classification. To strengthen the dataset, I performed data preprocessing by filtering out irrelevant images and ensuring that only volleyball players performing specific tasks were included. This refinement improved both the accuracy and relevance of the model’s predictions.
 
