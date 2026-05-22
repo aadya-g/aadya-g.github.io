@@ -7,7 +7,7 @@ author_profile: true
 
 ## University of Wisconsin Madison  
 **B.S. in Computer Science and Data Science**  
-*Expected Graduation: 2027*
+*Expected Graduation: 2028*
 
 **Relevant Coursework:**  
 - Elementary Matrix and Linear Algebra  
