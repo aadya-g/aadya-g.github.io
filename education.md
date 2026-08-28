@@ -9,22 +9,18 @@ author_profile: true
 **B.S. in Computer Science and Data Science**  
 *Expected Graduation: 2028*
 
-**Relevant Coursework:**  
-- Elementary Matrix and Linear Algebra  
-- Programming III  
-- Data Science Modeling II  
-- Machine Organization and Programming  
-- Introduction to Algorithms  
+### Relevant Coursework
+My coursework has given me a strong foundation in both computer science and data science, from mathematical reasoning and programming to algorithms, machine learning, and data analysis. Through a mix of theoretical and hands-on work, I’ve learned how to break down complex problems, work with real-world data, and apply computational methods to build practical solutions.
 
-**Campus Involvement & Activities:**  
-- **Theta Tau – Xi Chapter**  
-  - Website Lead (Dec 2024 – Present): Designed and maintained the chapter website, implemented a members page for 300+ members, and earned *Best Website* recognition among 94+ chapters.  
-- **UW–Madison Department of Information Technology (DoIT)**  
-  - Tech Consultant (Apr 2025 – Present): Provide support for 50,000+ students, faculty, and staff on hardware, software, and network issues.  
-- **Code to Connect**  
-  - Volunteer (Sep 2024 – Present): Taught coding fundamentals in Python and Java to 50+ underrepresented youth.  
-- **Aa Dekhen Zara**  
-  - Event Manager (Sep 2024 – Present): Planned and coordinated a cultural showcase for 300+ attendees.  
+- Linear Algebra
+- Data Science Modeling II
+- Discrete Mathematics
+- Machine Organization and Programming
+- Computer Algorithms
+- Human-Computer Interaction
+- Machine Learning and Statistical Pattern Recognition
+- Computer Sciences Capstone
+- Concepts of Data and Information Science
 
 ---
 
